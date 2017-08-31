@@ -1,0 +1,248 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+X-WR-CALNAME:2017
+PRODID:-//Adolfo Antón Bravo//Emacs with Org mode//EN
+X-WR-TIMEZONE:CEST
+X-WR-CALDESC:Datagenda del Datalab
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+DTSTAMP:20170831T215123Z
+UID:TS1-63b1f20a-11c3-41f8-a37f-6510833b6664
+DTSTART;VALUE=DATE:20170113
+DTEND;VALUE=DATE:20170402
+SUMMARY:Taller de Periodismo de Datos El País
+DESCRIPTION:• Cuándo: <2017-01-13 vie>–<2017-04-01 sáb>\n• URL: [http://esc
+ uela.elpais.com/talleres/taller-periodismo-datos/]
+CATEGORIES:calendario, evento, periodismodatos, datajournalism
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170831T215123Z
+UID:TS1-850c7d86-e592-4f9d-936c-0a5a52a628b2
+DTSTART:20170119T190000
+DTEND:20170119T203000
+SUMMARY:41 Reunión Grupo de R
+DESCRIPTION:• Cuándo: <2017-01-19 jue 19:00>–<2017-01-19 jue 20:30>\n• Dónd
+ e: Medialab-Prado\, Alameda 15\, 28014\, Madrid\n• Mapa:\n  [http://www.op
+ enstreetmap.org/way/219016719#map=19/40.41044/-3.69359]\n• URL:\n  [https:
+ //www.meetup.com/es-ES/Grupo-de-Usuarios-de-R-de-Madrid/events/236546948/]
+CATEGORIES:calendario, evento, periodismodatos, datajournalism
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170831T215123Z
+UID:TS1-50241d08-13e4-42c6-ade2-07e9f427700b
+DTSTART:20170131T183000
+DTEND:20170131T203000
+SUMMARY:Mi primera configuración Emacs
+DESCRIPTION:• Cuándo: <2017-01-31 mar 18:30>–<2017-01-31 mar 20:30>\n• Dónd
+ e: Medialab-Prado\, Alameda 15\, 28014\, Madrid\n• Mapa:\n  [http://www.op
+ enstreetmap.org/way/219016719#map=19/40.41044/-3.69359]\n• URL:\n  [https:
+ //www.meetup.com/es-ES/Grupo-de-Usuarios-de-R-de-Madrid/events/236546948/]
+ \n\nSi tus compañerxs te miran raro cuando abres Vim\, si sientes envidia\
+ nde los magos que usan emacs y te han hablado de org\, magit y todas las\n
+ maravillas\; si has instalado Emacs\, y es totalmente distinto a lo que\nh
+ abías visto\, blanco y vacío\, no sabes como usarlo…\n\nEn esta charla hab
+ laremos un poco de como empezar con emacs\, una\npequeña introducción a el
+ isp y como configurar emacs a tu gusto.\n\nLos temas que se cubrirán serán
+ :\n• Introducción a Emacs\n• Introducción a elisp\n• Mi primera configurac
+ ión\n• Configuración modular\n• Configuración basada en orgmode
+CATEGORIES:calendario, evento, periodismodatos, datajournalism
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170831T215123Z
+UID:TS1-96997364-a84c-4b84-927d-47de0deae69b
+DTSTART;VALUE=DATE:20160518
+DTEND;VALUE=DATE:20160522
+SUMMARY:Dataharvest 2017
+DESCRIPTION:<2016-05-18 mié>–<2016-05-21 sáb>
+CATEGORIES:calendario, evento, periodismodatos, datajournalism
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170831T215123Z
+UID:TS1-6c74b01e-5be4-4e74-81bf-2424da0804af
+DTSTART;VALUE=DATE:20170504
+DTEND;VALUE=DATE:20170508
+SUMMARY:V Jornadas Periodismo Datos #JPD17
+DESCRIPTION:• Cuándo: <2017-05-04 jue>–<2017-05-07 dom>\n• Dónde: Medialab-
+ Prado\, Alameda 15\, 28014\, Madrid\n• Mapa:\n  [http://www.openstreetmap.
+ org/way/219016719#map=19/40.41044/-3.69359]\n• URL: [http://medialab-prado
+ .github.io/jpd17]
+CATEGORIES:calendario, evento, periodismodatos, datajournalism
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170831T215123Z
+UID:TS1-ff7ff0d8-fe52-40ee-a10a-008732cc9cd6
+DTSTART;VALUE=DATE:20170915
+DTEND;VALUE=DATE:20171001
+SUMMARY:Visualizar'17: Migraciones
+DESCRIPTION:Taller de visualización de datos /Visualizar'17: Migraciones/.\
+ n<2017-09-15 vie>–<2017-09-30 sáb>\n• Artículo:\n  [http://medialab-prado.
+ es/article/visualizar17-migraciones]\n• Convocatoria de\n  proyectos:[http
+ ://medialab-prado.es/article/visualizar17-migraciones-convocatoria-de-proy
+ ectos]\n• Proyectos seleccionados:\n  [http://medialab-prado.es/article/vi
+ sualizar17-migraciones-proyectos-seleccionados]\n• Convocatoria de\n  cola
+ boradorxs:[http://medialab-prado.es/article/visualizar17-migraciones-convo
+ catoria-de-colaboradorxs]
+CATEGORIES:calendario, evento, periodismodatos, datajournalism
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170831T215123Z
+UID:TS1-6cc9788b-a2a9-40e7-9b89-49e7c204f847
+DTSTART;VALUE=DATE:20171009
+DTEND;VALUE=DATE:20171010
+SUMMARY:Introducción a los datos abiertos
+DESCRIPTION:<2017-10-09 lun>\n• Descubriendo los datos abiertos\n• Copyrigh
+ t\, licencias y datos abiertos\n• Usabilidad de los datos abiertos\n• Ejem
+ plos
+CATEGORIES:calendario, evento, periodismodatos, datajournalism
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170831T215123Z
+UID:TS1-edfd1efd-8e36-422c-a985-04f8f6bc1b5c
+DTSTART;VALUE=DATE:20171010
+DTEND;VALUE=DATE:20171011
+SUMMARY:Modelo de apertura de datos
+DESCRIPTION:<2017-10-10 mar>\n\n\n• Protocolos de apertura de datos\n• Reco
+ mendaciones de ejecución
+CATEGORIES:calendario, evento, periodismodatos, datajournalism
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170831T215123Z
+UID:TS1-c3861acd-a79f-41dd-abdf-52bb050fdb85
+DTSTART;VALUE=DATE:20171010
+DTEND;VALUE=DATE:20171011
+SUMMARY:Marco legal
+DESCRIPTION:<2017-10-10 mar>\n\n\n• Directivas europeas y otras normas e in
+ iciativas internacionales\n• Normativa nacional (y ejemplos de situación e
+ n otros países)\n• Normativa regional\n• Normativa local\n• Licencias de d
+ atos
+CATEGORIES:calendario, evento, periodismodatos, datajournalism
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170831T215123Z
+UID:TS1-c12304e9-8686-4b44-bd3f-41a275c835ad
+DTSTART;VALUE=DATE:20171017
+DTEND;VALUE=DATE:20171018
+SUMMARY:Datos enlazados. Teoría y práctica
+DESCRIPTION:<2017-10-17 mar>\n\n\n• Descubriendo los datos abiertos\n• Copy
+ right\, licencias y datos abiertos\n• Usabilidad de los datos abiertos\n• 
+ Fundamentos de la web semántica y conjuntos de datos\n• Vocabularios y con
+ juntos de datos\n• Empezando con datos abiertos en la práctica\n• Publicac
+ ión de datos enlazados: Virtuoso y Pubby
+CATEGORIES:calendario, evento, periodismodatos, datajournalism
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170831T215123Z
+UID:TS1-92580e55-ffb6-4da4-9ced-ff371c4a9789
+DTSTART;VALUE=DATE:20171018
+DTEND;VALUE=DATE:20171019
+SUMMARY:Vocabularios\, modelos de datos y ontologías
+DESCRIPTION:<2017-10-18 mié>\n\n• Introducción a la web semántica\n• RDF (S
+ )\n• OWL\n• Protege\n• Herramientas para documentación y publicación
+CATEGORIES:calendario, evento, periodismodatos, datajournalism
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170831T215123Z
+UID:TS1-d5b4b1ad-adf0-455b-a339-f8d9fa77252b
+DTSTART;VALUE=DATE:20171025
+DTEND;VALUE=DATE:20171026
+SUMMARY:Extracción\, transformación y carga de datos (ETL)
+DESCRIPTION:<2017-10-25 mié>\n\n• Introducción (ETL vs NoETL)\n• Modelos de
+  datos (SQL vs No-SQL)\n• Patrones de transformación (Batch vs Streaming)\
+ n• Herramientas (Rule-based vs Code-bassed)
+CATEGORIES:calendario, evento, periodismodatos, datajournalism
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170831T215123Z
+UID:TS1-f8e2dc8d-05d7-4f86-aa5d-2e9aa3524f2a
+DTSTART;VALUE=DATE:20171026
+DTEND;VALUE=DATE:20171027
+SUMMARY:Publicación en CKAN y uso de su API
+DESCRIPTION:<2017-10-26 jue>\n\n• Conceptos básicos (organizaciones\, grupo
+ s\, datasets\, recursos)\n• Añadiendo nuevas funcionalidades – Uso de exte
+ nsiones\n• Carga automática de datos – Uso de la API\n• DCAT\n• Federación
+  con datos.gob.es
+CATEGORIES:calendario, evento, periodismodatos, datajournalism
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170831T215123Z
+UID:TS1-3871475a-3fe8-4f63-8b13-6feb4e1465bf
+DTSTART;VALUE=DATE:20171026
+DTEND;VALUE=DATE:20171027
+SUMMARY:Visualización de datos
+DESCRIPTION:<2017-10-26 jue>\n\n• Grafos\n• Métricas sobre grafos\n• Visual
+ ización de big data
+CATEGORIES:calendario, evento, periodismodatos, datajournalism
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170831T215123Z
+UID:TS1-29847e3c-ffc5-4c4a-b524-715070e2e202
+DTSTART;VALUE=DATE:20171025
+DTEND;VALUE=DATE:20171029
+SUMMARY:Gigapp 2017
+DESCRIPTION:<2017-10-25 mié>–<2017-10-28 sáb>
+CATEGORIES:calendario, evento, periodismodatos, datajournalism
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170831T215123Z
+UID:TS1-cae118f8-1509-4d76-9a25-a136bebfed7a
+DTSTART;VALUE=DATE:20171025
+DTEND;VALUE=DATE:20171030
+SUMMARY:Transeuropa 2017
+DESCRIPTION:A festival of Arts\, Politics and Culture <2017-10-25 mié>–<201
+ 7-10-29\ndom>
+CATEGORIES:calendario, evento, periodismodatos, datajournalism
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170831T215123Z
+UID:DL-6d84d932-4a07-46c1-a064-9a29e7098417
+DTSTART;VALUE=DATE:20170608
+DTEND;VALUE=DATE:20170609
+SUMMARY:DL: Project lead data and civil liberties
+CATEGORIES:calendario, evento, periodismodatos, datajournalism
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170831T215123Z
+UID:TS1-d64cc7d7-bad8-4253-b114-cfd6599ffcd8
+DTSTART;VALUE=DATE:20161214
+DTEND;VALUE=DATE:20161215
+SUMMARY:Pass-It-On Awards Program
+DESCRIPTION:[https://anitaborg.org/awards-grants/pass-it-on-awards-program/
+ ] The\nAnita Borg Systers Pass-It-On (PIO) Awards honor Anita Borg’s desir
+ e\nto create a network of women technologists helping one another. The\nca
+ sh awards\, funded by donations from the Systers Online Community and\noth
+ ers\, are intended as means for women established in technological\nfields
+  to support women seeking their place in the fields of\ntechnology. The pr
+ ogram is called “Pass-It-On” because it comes with\nthe moral obligation t
+ o “pass on” the benefits gained from the award.\n\nEl periodo de aplicació
+ n de este año fue del <2016-12-14 mié> al\n<2017-03-29 mié>
+CATEGORIES:calendario, evento, periodismodatos, datajournalism
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170831T215123Z
+UID:TS2-d64cc7d7-bad8-4253-b114-cfd6599ffcd8
+DTSTART;VALUE=DATE:20170329
+DTEND;VALUE=DATE:20170330
+SUMMARY:Pass-It-On Awards Program
+DESCRIPTION:[https://anitaborg.org/awards-grants/pass-it-on-awards-program/
+ ] The\nAnita Borg Systers Pass-It-On (PIO) Awards honor Anita Borg’s desir
+ e\nto create a network of women technologists helping one another. The\nca
+ sh awards\, funded by donations from the Systers Online Community and\noth
+ ers\, are intended as means for women established in technological\nfields
+  to support women seeking their place in the fields of\ntechnology. The pr
+ ogram is called “Pass-It-On” because it comes with\nthe moral obligation t
+ o “pass on” the benefits gained from the award.\n\nEl periodo de aplicació
+ n de este año fue del <2016-12-14 mié> al\n<2017-03-29 mié>
+CATEGORIES:calendario, evento, periodismodatos, datajournalism
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20170831T215124Z
+UID:DL-2d0c678d-387c-407c-bed4-be3b66d0e703
+DTSTART;VALUE=DATE:20170608
+DTEND;VALUE=DATE:20170609
+SUMMARY:DL: Communications internship
+DESCRIPTION:We are looking for translators who can translate from English i
+ nto one\nof our core languages (Arabic\, French\, Portuguese\, Russian\, S
+ panish).
+CATEGORIES:calendario, evento, periodismodatos, datajournalism
+END:VEVENT
+END:VCALENDAR

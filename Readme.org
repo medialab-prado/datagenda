@@ -1,0 +1,23 @@
+#+BLOG: blog.infotics.es
+#+CATEGORY: calendario, evento, periodismodatos, datajournalism 
+#+TAGS: boletín, periodismodatos, tinyletter, 
+#+DESCRIPTION: Calendario de eventos relacionados con el conocimiento abierto para 2016
+#+TITLE: Datagenda, la agenda del Datalab
+#+OPTIONS:  num:nil todo:nil pri:nil tags:nil ^:nil TeX:nil
+
+Agenda de eventos relacionados o de interés para las distintas comunidades de datos: periodismodatos, datosabiertos, datascientists, conocimiento abierto, etc.
+
+Si tienes un evento, una beca, una oferta de trabajo, un curso, en enlace de interés o cualquier otra idea, duda o sugerencia que proponer, añade [[https://github.com/medialab-prado/datagenda/issues/new][una nueva issue]].
+
+Navega en las actividades de [[https://github.com/medialab-prado/datagenda/blob/master/2017.org][2017]] o descárgate los archivos [[https://github.com/medialab-prado/agenda/blob/master/2017.ics][ics]]
+
+La estructura de los documentos es:
+
+- Actividades por meses
+- Actividades todo el año
+- Becas y ofertas de trabajo
+- Cursos
+- Enlaces de interés
+- Ideas
+
+La /Datagenda/ es un proyecto del [[http://medialab-prado.es/visualizar][Datalab]] de Medialab-Prado.

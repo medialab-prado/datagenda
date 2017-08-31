@@ -1,0 +1,285 @@
+#+CATEGORY: calendario, evento, periodismodatos, datajournalism 
+#+TAGS: boletín, periodismodatos, tinyletter, 
+#+DESCRIPTION: Eventos/noticias/enlaces/becas/ofertas de trabajo relacionados con datos
+#+TITLE: Datagenda del Datalab
+
+* Enero
+** Taller de Periodismo de Datos El País
+- Cuándo: <2017-01-13 vie>--<2017-04-01 sáb>
+- URL: http://escuela.elpais.com/talleres/taller-periodismo-datos/
+** 41 Reunión Grupo de R
+- Cuándo: <2017-01-19 jue 19:00-20:30>
+- Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
+- Mapa: http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359
+- URL: https://www.meetup.com/es-ES/Grupo-de-Usuarios-de-R-de-Madrid/events/236546948/
+
+*** Luis Espada Triguero: "Aplicaciones empresariales con Shiny".
+Luis nos presentará diferentes aplicaciones de gestión que ha realizado para su empresa utilizando Shiny.
+
+*** José Luis Hidalgo: "Programación probabilística: ¿un viejo truco al que le ha llegado su momento?"
+Para una clase muy amplia de modelos (modelos generativos Bayesianos) es posible realizar inferencia usando algoritmos genéricos.  Ciertos desarrollos muy recientes están sacando estas técnicas,  extraordinariamente potentes, del ámbito académico al mundo de las aplicaciones prácticas.
+
+** Mi primera configuración Emacs
+- Cuándo: <2017-01-31 mar 18:30-20:30>
+- Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
+- Mapa: http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359
+- URL: https://www.meetup.com/es-ES/Grupo-de-Usuarios-de-R-de-Madrid/events/236546948/
+
+Si tus compañerxs te miran raro cuando abres Vim, si sientes envidia
+de los magos que usan emacs y te han hablado de org, magit y todas las
+maravillas; si has instalado Emacs, y es totalmente distinto a lo que
+habías visto, blanco y vacío, no sabes como usarlo...
+
+En esta charla hablaremos un poco de como empezar con emacs, una
+pequeña introducción a elisp y como configurar emacs a tu gusto.
+
+Los temas que se cubrirán serán:
+- Introducción a Emacs
+- Introducción a elisp
+- Mi primera configuración
+- Configuración modular
+- Configuración basada en orgmode
+
+* Abril
+** Dataharvest 2017
+<2016-05-18 mié>--<2016-05-21 sáb>
+
+* Mayo
+** V Jornadas Periodismo Datos #JPD17
+
+- Cuándo: <2017-05-04 jue>--<2017-05-07 dom>
+- Dónde: Medialab-Prado, Alameda 15, 28014, Madrid
+- Mapa: http://www.openstreetmap.org/way/219016719#map=19/40.41044/-3.69359
+- URL: http://medialab-prado.github.io/jpd17
+
+* Junio
+** Curso
+* Septiembre
+
+** Visualizar'17: Migraciones
+   :PROPERTIES:
+   :URL:      http://medialab-prado.es/visualizar
+   :Localidad: Madrid
+   :E-mail:   visualizar@medialab-prado.es
+   :Entidad:  Datalab
+   :Sede:     Medialab-Prado
+   :Dirección: Calle de la Alameda, 15. 28014 Madrid (España)
+   :GoogleMaps: https://www.google.es/maps/place/Calle+de+la+Alameda,+15,+28014+Madrid/@40.4105245,-3.6957741,17z/data=!4m5!3m4!1s0xd4226286173786b:0x111584dabe22d0f4!8m2!3d40.4105204!4d-3.6935854?hl=es
+   :END:
+Taller de visualización de datos /Visualizar'17: Migraciones/.
+<2017-09-15 vie>--<2017-09-30 sáb>
+- Artículo: http://medialab-prado.es/article/visualizar17-migraciones
+- Convocatoria de proyectos:http://medialab-prado.es/article/visualizar17-migraciones-convocatoria-de-proyectos
+- Proyectos seleccionados: http://medialab-prado.es/article/visualizar17-migraciones-proyectos-seleccionados
+- Convocatoria de colaboradorxs:http://medialab-prado.es/article/visualizar17-migraciones-convocatoria-de-colaboradorxs
+
+* Octubre
+** Curso de datos abiertos adaptado a la administración local
+   :PROPERTIES:
+   :URL:      http://madrid.theodi.org/courses/curso-de-datos-abiertos-adaptado-la-administracion-local/
+   :Dónde:    ETSIINF, C/ Ciruelos nº 2, Boadilla del Monte, 28669, Madrid (España)
+   :E-mail:   odi_madrid@delicias.dia.fi.upm.es
+   :GoogleMaps: http://maps.google.com/maps?z=16&q=escuela+t%C3%A9cnica+superior+de+ingenieros+inform%C3%A1ticos+(etsiinf)+universidad+polit%C3%A9cnica+de+madrid+avda.+montepr%C3%ADncipe,+s/n+boadilla+del+monte,+28660,+espa%C3%B1a
+   :Localidad: Boadilla del Monte
+   :Entidad:  ODI Madrid
+   :END:
+
+*** Introducción a los datos abiertos
+    :PROPERTIES:
+    :Duración: 4 horas
+    :END:
+<2017-10-09 lun>
+- Descubriendo los datos abiertos
+- Copyright, licencias y datos abiertos
+- Usabilidad de los datos abiertos
+- Ejemplos
+
+*** Modelo de apertura de datos
+    :PROPERTIES:
+    :Duración: 2 horas
+    :END:
+<2017-10-10 mar>
+
+
+- Protocolos de apertura de datos
+- Recomendaciones de ejecución
+
+*** Marco legal
+    :PROPERTIES:
+    :Duración: 2 horas
+    :END:
+<2017-10-10 mar>
+
+
+- Directivas europeas y otras normas e iniciativas internacionales
+- Normativa nacional (y ejemplos de situación en otros países)
+- Normativa regional
+- Normativa local
+- Licencias de datos
+
+*** Datos enlazados. Teoría y práctica
+    :PROPERTIES:
+    :Duración: 6 horas
+    :END:
+<2017-10-17 mar>
+
+
+- Descubriendo los datos abiertos
+- Copyright, licencias y datos abiertos
+- Usabilidad de los datos abiertos
+- Fundamentos de la web semántica y conjuntos de datos
+- Vocabularios y conjuntos de datos
+- Empezando con datos abiertos en la práctica
+- Publicación de datos enlazados: Virtuoso y Pubby
+
+*** Vocabularios, modelos de datos y ontologías
+    :PROPERTIES:
+    :Duración: 6 horas
+    :END:
+<2017-10-18 mié>
+
+- Introducción a la web semántica
+- RDF (S)
+- OWL
+- Protege
+- Herramientas para documentación y publicación
+
+*** Extracción, transformación y carga de datos (ETL)
+    :PROPERTIES:
+    :Duración: 4 horas
+    :END:
+<2017-10-25 mié>
+
+- Introducción (ETL vs NoETL)
+- Modelos de datos (SQL vs No-SQL)
+- Patrones de transformación (Batch vs Streaming)
+- Herramientas (Rule-based vs Code-bassed)
+
+*** Publicación en CKAN y uso de su API
+    :PROPERTIES:
+    :Duración: 4 horas
+    :END:
+<2017-10-26 jue>
+
+- Conceptos básicos (organizaciones, grupos, datasets, recursos)
+- Añadiendo nuevas funcionalidades – Uso de extensiones
+- Carga automática de datos – Uso de la API
+- DCAT
+- Federación con datos.gob.es
+
+*** Visualización de datos
+    :PROPERTIES:
+    :Duración: 4 horas
+    :END:
+<2017-10-26 jue>
+
+- Grafos
+- Métricas sobre grafos
+- Visualización de big data
+** Gigapp 2017
+   :PROPERTIES:
+   :URL:      https://congreso.gigapp.org/
+   :Localidad: Madrid
+   :Entidad:  GIGAPP
+   :Sede:     Medialab-Prado
+   :END:
+<2017-10-25 mié>--<2017-10-28 sáb>
+** Transeuropa 2017
+   :PROPERTIES:
+   :URL:      https://transeuropafestival.eu/
+   :END:
+A festival of Arts, Politics and Culture
+<2017-10-25 mié>--<2017-10-29 dom>
+* Todo el año
+* Becas, ofertas de trabajo
+
+** Project lead data and civil liberties
+   DEADLINE: <2017-06-08 jue>
+   :PROPERTIES:
+   :Organización: Tactical Tech
+   :URL:      https://tacticaltech.org/project-lead-data-and-civil-liberties
+   :END:
+
+** GHC17
+** Pass-It-On Awards Program
+   SCHEDULED: <2017-12-01 vie>
+https://anitaborg.org/awards-grants/pass-it-on-awards-program/
+The Anita Borg Systers Pass-It-On (PIO) Awards honor Anita Borg’s desire to create a network of  women technologists helping one another. The cash awards, funded by donations from the Systers Online Community and others, are intended as means for women established in technological fields to support women seeking their place in the fields of technology. The program is called “Pass-It-On” because it comes with the moral obligation to “pass on” the benefits gained from the award.
+
+El periodo de aplicación de este año fue del <2016-12-14 mié> al <2017-03-29 mié>
+
+
+** Communications internship
+   DEADLINE: <2017-06-08 jue>
+   :PROPERTIES:
+   :END:
+   :PROPERTIES:
+   :URL:      https://tacticaltech.org/communications-internship-paid
+   :Organización: Tactical Tech
+   :END:**
+ Translator
+   :PROPERTIES:
+   :Organización: Tactical Tech
+   :URL:      https://tacticaltech.org/jobs/translator
+   :END:
+ We are looking for translators who can translate from English into
+ one of our core languages (Arabic, French, Portuguese, Russian,
+ Spanish).
+
+** System Operations and Development Position
+   :PROPERTIES:
+   :URL:      https://tacticaltech.org/systems-operations-and-development-position
+   :Localidad: Berlín
+   :Tiempo:   completo
+   :Entidad:  Tactical Technology Collective
+   :E-mail:   jobs@tacticaltech.org
+   :END:
+Formará parte del equipo de tecnologías de la información y será responsable de las operación y mantenimiento de los ordenadores, la red y los sistemas relacionados.
+
+** Consultants en Tactical Technology Collective
+   :PROPERTIES:
+   :URL:      https://tacticaltech.org/jobs
+   :Localidad: Berlín
+   :Tiempo:   completo
+   :Entidad:  Tactical Technology Collective
+   :E-mail:   jobs@tacticaltech.org
+   :Fingerprint: F332 42F9 DD5B 91D9 AEF3 108A 6AC5 FEC2 7C8B 5F0D.
+   :END:
+Diversas ofertas de trabajo como consultorxs para TTC: researchers, trainers, facilitators, translators, designers (various), illustrators, animation designers, editor.
+
+* Cursos
+** Learno.net
+   :PROPERTIES:
+   :URL:      https://learno.net/
+   :END:
+LEARNO.NET is an initiative of the European Journalism Centre
+(EJC). The EJC is a non-profit international foundation with the
+mission to improve and strengthen journalism and the news media in the
+interest of a functioning democratic public sphere. In this spirit,
+the EJC has always focused very much on training and capacity
+building, and LEARNO.NET is the next logical step on that way.
+
+** HTML
+   :PROPERTIES:
+   :Autoría:  Raúl Jiménez Ortega
+   :URL:      http://www.cursohtml5desdecero.com
+   :Licencia: CC-BY-NC-SA 4.0 Internacional
+   :Repo:     https://github.com/hhkaos/cursohtml5desdecero/
+   :END:
+
+- Enseñar los elementos más comunes de HTML5, CSS3 y JavaScript.
+- Mostrar dónde podrás resolver tus dudas cuando tengas problemas.
+- Explicar cómo trabajar con algunas de las herramientas que usan los profesionales del mundo real como son Github o las herramientas para desarrolladores de Google Chrome.
+
+* Enlaces de interés
+
+** Naked Data, Code for South Africa Newsletter
+http://code4sa.org/newsletter/
+
+* Ideas
+
+** Calendario en Google
+** Calendario en ICS
+** Tinyletter
+** Schema.org
+** Orgmode
